@@ -1,2 +1,3 @@
 Fuel Route Optimizer is a route-planning application that helps users find the most cost-effective fuel stops for trips within the USA. The application accepts a start and destination location, calculates the driving route, and identifies optimal refueling locations based on fuel prices from the provided dataset. Assuming a vehicle range of 500 miles per tank and a fuel efficiency of 10 miles per gallon, it recommends one or more fuel stops as needed, displays the complete route on a map, and estimates the total fuel cost for the journey.
 To run this Activate the Virtual Environment and the Run the Django Server "python manage.py runserver"
+loom video link -> https://www.loom.com/share/59dabf703f8545358388e12bca859f5f
